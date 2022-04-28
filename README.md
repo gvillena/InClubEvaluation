@@ -67,4 +67,4 @@ Listo!
 ### Ejecucion
 Ejecutar el proyecto **CatalogAPI** utilizando el perfil de **ISSExpress** de la solucion dentro de Visual Studio.
 
-Esto abrira un navegador mostrando la interfaz de usuario de **Swagger** implementado dentro del proyecto, tal como se muestra a continuacion.
+Esto abrira un navegador mostrando la interfaz de usuario de **Swagger** implementado dentro del proyecto.
