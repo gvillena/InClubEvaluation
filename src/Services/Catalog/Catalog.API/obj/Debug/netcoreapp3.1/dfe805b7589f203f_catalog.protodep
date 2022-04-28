@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1\Proto/Catalog.cs \
+obj\Debug\netcoreapp3.1\Proto/CatalogGrpc.cs: Proto/catalog.proto
